@@ -1,1 +1,1 @@
-# I learned this from Dennis Ivy
+# Django CRM project
